@@ -11,6 +11,4 @@ Creating a databases for a company to analyze employee data based on exisiting r
 ## Recommendations 
  The data files can be filtered more before using them for the analyses. For example, birth_date can be provided in multiple and appropriate data files instead of just the main employees file. Birth_date can be used as a large filtering system especially when a company is worried about employees reaching retirement age. 
 ## ERD of the database
-![ERDEmployeeDB](’Module 7/Pewlett-Hackard-Analysis/EmployeeDB.png’)
-
-## Conclusion
+![EmployeeDB](EmployeeDB.png)

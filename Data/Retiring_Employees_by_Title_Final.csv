@@ -1,0 +1,82 @@
+emp_no,first_name,last_name,from_date,salary,title
+14498,Xiong,Selenyi,10/17/1988,40000,Senior Staff
+16448,Tsvetan,Zwicker,4/25/1992,76979,Engineer
+19724,Visit,Hasham,9/9/1988,69399,Senior Staff
+20186,Jianhua,Narahari,9/12/1991,57321,Senior Engineer
+23592,Marek,Templeman,3/7/1991,68278,Senior Staff
+24508,Uzi,Penn,4/25/1992,66662,Engineer
+28734,Arvind,Heydon,5/6/1989,83827,Senior Staff
+29485,Ortrun,Shobatake,9/9/1988,55230,Senior Staff
+29788,Radhia,Kaminger,9/9/1988,50834,Engineer
+35110,Reinhold,Speckmann,8/2/1992,48028,Engineer
+44750,Bernice,Coors,4/25/1992,99844,Senior Staff
+45344,Shigeo,Servieres,4/25/1992,63050,Engineer
+46159,Barun,Grabner,10/17/1988,40736,Senior Staff
+46281,Rosine,Berztiss,4/25/1992,40000,Technique Leader
+71779,Hironoby,Cooman,8/30/1996,69098,Engineer
+76250,Fumiyo,Linnainmaa,3/7/1991,40000,Assistant Engineer
+76530,Honesty,Benner,9/9/1988,40000,Engineer
+76772,Gao,Garigliano,3/7/1991,42932,Senior Engineer
+80751,Zhensheng,Swan,9/12/1991,49178,Senior Engineer
+81767,Augustine,Matzov,10/17/1988,64335,Senior Staff
+82721,Arvind,Showalter,4/25/1992,40000,Senior Staff
+85899,Chinhyun,Zaiane,9/12/1991,40000,Senior Staff
+89331,Ranga,Narahara,9/8/1992,40000,Engineer
+90925,Odinaldo,Bugrara,12/17/1989,40000,Senior Staff
+92263,Takahiro,Spataro,5/6/1989,42132,Senior Staff
+96844,Tommaso,Maliniak,8/30/1996,40000,Engineer
+98183,Masami,Besselaar,9/9/1988,54821,Senior Staff
+98270,Kinh,Kawashimo,3/21/1992,56835,Senior Staff
+98753,Franziska,Murillo,9/12/1991,73479,Senior Staff
+101276,Shirish,Leonhardt,10/17/1988,62370,Engineer
+109699,Pintsang,Duclos,12/17/1989,68285,Engineer
+110183,Shirish,Ossenbruggen,1/1/1985,48291,Manager
+111692,Tonny,Butterworth,1/1/1985,40000,Manager
+202271,Josyula,Benner,8/30/1996,71249,Staff
+204206,Nathalie,Picci,1/3/1996,52432,Senior Staff
+207854,Kazuhito,Assaf,6/28/1994,40000,Senior Staff
+212762,Kauko,Lung,10/17/1988,43095,Senior Staff
+214716,Hironobu,Makrucki,10/17/1988,69425,Senior Staff
+216191,Yuuichi,Bernick,8/30/1996,40000,Technique Leader
+223788,Jinya,Olivero,3/7/1991,50891,Engineer
+226829,Godehard,Gihr,8/2/1992,45223,Senior Staff
+229819,Zhenbing,Delgrande,9/9/1988,53781,Technique Leader
+230906,Qunsheng,Marchegay,9/9/1988,50033,Senior Staff
+233526,Yuchang,Comyn,9/8/1992,40000,Engineer
+235597,Makato,Kobara,4/8/1991,40000,Engineer
+244750,Gaurav,Kamble,10/17/1988,40000,Technique Leader
+254563,Boaz,Dulin,6/28/1994,56737,Senior Staff
+256480,Demos,Ghemri,10/17/1988,51574,Engineer
+262292,Hyuckchul,Cardazo,6/28/1994,54794,Staff
+264105,Rasikan,Lichtman,1/3/1996,62099,Staff
+273843,Arvin,Beetstra,10/17/1988,41529,Engineer
+279829,Iara,Stille,1/3/1996,85334,Staff
+284546,Sadok,Ouhyoung,4/8/1991,46672,Engineer
+287512,Guadalupe,Bashian,10/17/1988,40000,Engineer
+408269,Jessie,Hebert,9/8/1992,61785,Senior Staff
+408571,Suebskul,Sinitsyn,10/1/1991,40000,Senior Staff
+410660,Chinhyun,Rusmann,5/6/1989,61244,Senior Staff
+412942,Gian,Percebois,6/28/1994,40000,Senior Staff
+413888,Spyrose,Ranze,9/8/1992,68273,Senior Staff
+415403,Uri,Masand,1/3/1996,60929,Staff
+415912,Gadiel,Begiun,9/9/1988,67977,Engineer
+418000,Yuichiro,Alpin,10/17/1988,82805,Senior Staff
+418671,Xiaoshan,Calkin,10/17/1988,62129,Senior Staff
+425809,Piyawadee,Luan,10/17/1988,40000,Engineer
+428314,Mario,Plotkin,9/12/1991,61016,Engineer
+433203,Shigenori,Cappelli,9/9/1988,71506,Senior Staff
+439789,Almudena,Liedekerke,10/17/1988,40000,Senior Engineer
+441398,Chiradeep,Eiter,9/8/1992,47380,Senior Staff
+444742,Moriyoshi,Fadgyas,9/9/1988,40000,Senior Staff
+445026,Kitty,Kohling,1/3/1996,48687,Senior Engineer
+449141,Yuqun,Szmurlo,5/6/1989,40000,Engineer
+452221,Xinyu,Hainaut,9/9/1988,65502,Senior Staff
+458612,Zsolt,Suppi,1/3/1996,59651,Staff
+458868,Xudong,Olano,9/12/1991,61484,Engineer
+458922,Anneli,Demir,4/25/1992,45817,Engineer
+464425,Shaunak,Murtafg,8/30/1996,40000,Senior Staff
+467972,Xiaoshan,Magalhaes,9/8/1992,67039,Assistant Engineer
+472186,Dung,Janetzko,3/21/1992,83339,Senior Staff
+488246,Paris,Honglei,5/6/1989,55098,Engineer
+492508,Uno,Eastman,10/17/1988,51643,Senior Staff
+498314,Zita,Liesche,9/9/1988,40000,Assistant Engineer
